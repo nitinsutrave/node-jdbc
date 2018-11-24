@@ -1,23 +1,18 @@
 {
-  "name": "@naxmefy/jdbc",
+  "name": "@nitinsutrave/jdbc",
   "version": "0.8.0",
   "description": "use jdbc from node",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
-  "author": {
-    "name": "MRW Neundorf",
-    "email": "m.neundorf@live.de",
-    "url": "http://www.nax.me"
-  },
-  "homepage": "https://github.com/naxmefy/node-jdbc",
+  "homepage": "https://github.com/nitinsutrave/node-jdbc",
   "bugs": {
     "email": "m.neundorf@live.de",
-    "url": "https://github.com/naxmefy/node-jdbc/issues"
+    "url": "https://github.com/nitinsutrave/node-jdbc/issues"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/naxmefy/node-jdbc.git"
+    "url": "git+https://github.com/nitinsutrave/node-jdbc.git"
   },
   "scripts": {
     "build": "tsc",

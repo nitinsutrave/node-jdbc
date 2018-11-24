@@ -17,7 +17,7 @@ export class JDBC {
   private connection: Promise<Connection>
   private config: IJDBCConfig
 
-  private debug: debug.IDebugger = debug('@naxmefy/jdbc')
+  private debug: debug.IDebugger = debug('@nitinsutrave/jdbc')
 
   constructor (config: IJDBCConfig) {
     this.config = config
